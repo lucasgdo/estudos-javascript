@@ -7,3 +7,5 @@ https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/
 Exercício 1 - Coletando dados de um formulário em objetos e apresentando na página.
 
 Exercício 2 - Usando condicionais para alterar os dados inseridos na página.
+
+Exercício 3 - Apresentando horário atual utilizando switch e Date();
