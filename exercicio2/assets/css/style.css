@@ -57,12 +57,3 @@ form button {
 form button:hover {
     background: var(--primary-color-darker);
 }
-
-.resultado-valido, .resultado-nao-valido{
-    background: rgb(81, 224, 117);
-    padding: 10px 20px;
-}
-
-.resultado-nao-valido {
-    background: rgb(228, 77, 77);
-}
