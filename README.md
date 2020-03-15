@@ -9,3 +9,5 @@ Estudos baseados no curso [Curso de Javascript Moderno do Básico ao Avancado](h
 [Exercício 2](https://lucasgdo.github.io/estudos-javascript/exercicio2/) - Usando condicionais para alterar os dados inseridos na página.
 
 [Exercício 3](https://lucasgdo.github.io/estudos-javascript/exercicio3/) - Apresentando horário atual utilizando switch e Date();
+
+[Exercício 4](https://lucasgdo.github.io/estudos-javascript/exercicio4/) - Usando for básico para inserir elementos na página.
