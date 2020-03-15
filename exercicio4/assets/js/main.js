@@ -8,7 +8,7 @@ function main() {
     ];
 
     const div = criaDiv();
-    for(i=0; i<elementos.length ; i++) {
+    for(let i=0; i<elementos.length ; i++) {
         let elemento = elementos[i].tag;
         let textoElemento = elementos[i].texto;
         let elementoCriado = document.createElement(elemento);
