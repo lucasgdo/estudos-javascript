@@ -15,3 +15,5 @@ Estudos baseados no curso [Curso de Javascript Moderno do Básico ao Avancado](h
 [Exercício 5](https://lucasgdo.github.io/estudos-javascript/exercicio5) - Usando NodeList para alterar vários elementos da página.
 
 [Exercício 6](https://lucasgdo.github.io/estudos-javascript/exercicio6) - Criando um timer com setInterval();
+
+[Exercício 7](https://lucasgdo.github.io/estudos-javascript/exercicio7) - Criando uma lista de tarefas que se mantém salva;
