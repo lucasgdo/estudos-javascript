@@ -13,3 +13,5 @@ Estudos baseados no curso [Curso de Javascript Moderno do Básico ao Avancado](h
 [Exercício 4](https://lucasgdo.github.io/estudos-javascript/exercicio4/) - Usando for básico para inserir elementos na página.
 
 [Exercício 5](https://lucasgdo.github.io/estudos-javascript/exercicio5) - Usando NodeList para alterar vários elementos da página.
+
+[Exercício 6](https://lucasgdo.github.io/estudos-javascript/exercicio6) - Criando um timer com setInterval();
