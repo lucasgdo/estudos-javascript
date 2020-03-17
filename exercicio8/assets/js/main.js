@@ -65,6 +65,7 @@ function Calculadora() {
 
   this.btnParaDisplay = function(valor) {
     this.display.value += valor;
+    this.display.focus();
   }
 
 }
