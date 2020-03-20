@@ -27,7 +27,7 @@ ValidaCPF.prototype.criaDigito = function (cpfPuro) {
         ac += (regressivo * Number(val));
         regressivo--;
         return ac;
-    }, 0);
+    }, 0);  
 
     const digito = 11 - (total % 11);
     return digito > 9 ? '0' : String(digito);
@@ -36,12 +36,4 @@ ValidaCPF.prototype.criaDigito = function (cpfPuro) {
 ValidaCPF.prototype.eSequencia = function() {
     const sequencia = this.cpfString[0].repeat(this.cpfString.length);
     return sequencia === this.cpfString;
-}
-
-const cpf = new ValidaCPF('615.812.546-08');
-
-if (cpf.valida()) {
-    console.log('CPF válido');
-} else {
-    console.log('CPF inválido');
 }
