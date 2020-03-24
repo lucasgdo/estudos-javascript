@@ -21,3 +21,5 @@ Estudos baseados no curso [Curso de Javascript Moderno do Básico ao Avancado](h
 [Exercício 8](https://lucasgdo.github.io/estudos-javascript/exercicio8) - Criando uma calculadora usando uma função construtora.
 
 [Exercício 9](https://lucasgdo.github.io/estudos-javascript/exercicio9) - Validando um formulário usando uma classe.
+
+[Exercício 10](https://lucasgdo.github.io/estudos-javascript/exercicio10) - AJAX + Promises.
