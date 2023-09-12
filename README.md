@@ -1,6 +1,4 @@
 # estudos-javascript
-Estudos iniciais em Javascript
-
 Estudos baseados no curso [Curso de Javascript Moderno do Básico ao Avancado](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/) de Luiz Otávio Miranda da Udemy.
 
 
